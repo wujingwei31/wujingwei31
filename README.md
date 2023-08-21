@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wujingwei31.
+- 👀 I’m interested in Backend development student focusing on Node.js. 
+- 🌱 I’m currently learning Building robust, scalable server-side applications is my passion.
